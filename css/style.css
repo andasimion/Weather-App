@@ -1,0 +1,20 @@
+toplogo {
+    margin-top: 5px;
+}
+
+.toplogo img {
+    height : 20%;
+    width : 20%;
+}
+
+.navbar-nav {
+    display: inline-block;
+}
+  
+.navbar-nav>li {
+    display: inline-block;
+}
+
+#forecastTable {
+    text-align: center;   
+}
